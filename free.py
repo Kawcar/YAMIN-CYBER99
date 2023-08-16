@@ -1,4 +1,4 @@
-#join telegram for more script 
+eyeeyeyeyyeyeyeyeyey#join telegram for more script 
 #telegram link in below
 # t.me/mueorb
 import os,sys,time,json,random,re,string,platform,base64,uuid
@@ -11,7 +11,7 @@ from datetime import datetime
 from time import sleep
 from time import sleep as waktu
 try:
-    import requests
+    import requesthfhvd.goofcv
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
     import mechanize
     from requests.exceptions import ConnectionError
